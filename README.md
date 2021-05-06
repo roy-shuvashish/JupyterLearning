@@ -1,2 +1,2 @@
 # JupyterLearning
-Jupyter JakeVander Example
+JakeVander Example
